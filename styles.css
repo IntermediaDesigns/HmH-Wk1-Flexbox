@@ -12,18 +12,22 @@
 
 .box2 {
        display: flex;
+       justify-content: center;
 }
 
 .box3 {
        display: flex;
+       justify-content: flex-end;
 }
 
 .box4 {
-       display: flex;
+       flex-direction: column;
+       
 }
 
 .box5 {
        display: flex;
+       justify-content: space-around;
 }
 
 .box6 {
