@@ -32,4 +32,17 @@
 
 .box6 {
        display: flex;
+       justify-content: space-between;
+       
+}
+
+#box6a { 
+       display: flex;
+       
+       
+}
+
+#box6b {
+       justify-content: flex-end;
+
 }
