@@ -4,7 +4,10 @@
 
 #frog {
        font-size: 50px;
-       padding-bottom: 17px;
+}
+
+hr {
+       margin-top: 25px;
 }
 
 .box1 {
@@ -23,7 +26,6 @@
 
 .box4 {
        flex-direction: column;
-       
 }
 
 .box5 {
@@ -34,16 +36,12 @@
 .box6 {
        display: flex;
        justify-content: space-between;
-       
 }
 
 #box6a { 
        display: flex;
-       
-       
 }
 
 #box6b {
        justify-content: flex-end;
-
 }
